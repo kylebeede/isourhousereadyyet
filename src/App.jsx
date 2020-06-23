@@ -4,7 +4,7 @@ import useScreenDimensions from './useScreenDimensions';
 
 import './App.css';
 
-const targetDate = new Date('June 29, 2020 00:00:00');
+const targetDate = new Date('June 30, 2020 00:00:00');
 
 function App() {
   const { screenWidth, screenHeight } = useScreenDimensions();
